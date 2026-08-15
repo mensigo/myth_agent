@@ -1,3 +1,15 @@
+# --- Node / Next.js ---
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Environment files: ignore all .env variants except the committed example
+.env*
+!.env.example
+
+# --- Python ---
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

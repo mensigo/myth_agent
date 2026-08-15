@@ -1,0 +1,6 @@
+{
+  "id": "norse",
+  "name": "Norse Mythology",
+  "description": "A minimal starter pack for the Norse pantheon — demonstrates drop-in extensibility.",
+  "tradition": "Primarily the Poetic Edda and Snorri Sturluson's Prose Edda."
+}
